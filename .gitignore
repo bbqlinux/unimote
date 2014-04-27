@@ -1,0 +1,5 @@
+*.[oa]
+*.pkg.*
+*.tar.gz
+pkg/
+src/
